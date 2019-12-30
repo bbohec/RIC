@@ -24,8 +24,10 @@ En tant que Membre du Peuple Français,
         Voter une abrogation de Loi
         Voter un changement de la Consitution française
         Voter une révocation d'un élu de son mandat
-        Consulter l'état d'une proposition ou d'un vote
+        Consulter l'état d'une proposition
+        Consulter l'état d'un vote
         Consulter mes propositions
+        Modifier une de mes propositions afin de répondre au débat publique sur celle-ci
         Consulter mon avis sur les propositions
         Consulter mes votes
         Déclarer une usurpation de mon identité
@@ -38,12 +40,15 @@ En tant que Membre du Peuple Français,
 En tant qu'élu,
     je ne peux pas
         Me déclarer moi-même comme Membre du Peuple Français.
+        Consulter ce que vote un autre Membre du Peuple Français
+        Consulter ce que propose un autre Membre du Peuple Français
     je peux
         M'authentifier afin d'accéder à mes services d'élu
         Déclarer un Membre du Peuple Français sur le RIC afin de garantir son identité.
         Etre déclaré comme Membre du Peuple Français par un autre élu.
         Déclarer une usurpation de mon identité
     je suis
+        Averti de mon inscription au RIC pour accéder à mes fonctionnalités.
         Averti des risques d'usurptation d'identité.
     
     
@@ -51,10 +56,13 @@ En tant qu'élu,
 En tant qu'administrateur du RIC,
     je ne peux pas
         Me déclarer moi-même comme Membre du Peuple Français.
+        Consulter ce que vote un autre Membre du Peuple Français
+        Consulter ce que propose un autre Membre du Peuple Français
     je peux
         M'authentifier afin d'accéder à mes services d'élu
-        Déclarer un élu afin de garantir son identité.
-        Déclarer un service de répréssion des fraudres pour les avertir en cas d'usurpation d'identité.
+        Déclarer un autre Administrateur du RIC afin de garantir son identité.
+        Déclarer un Elu afin de garantir son identité.
+        Déclarer un Service de Répréssion des Fraudres pour les avertir en cas d'usurpation d'identité.
         Etre déclaré comme Membre du Peuple Français par un élu.
         Déclarer une usurpation de mon identité
     je suis
