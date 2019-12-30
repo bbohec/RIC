@@ -1,6 +1,6 @@
 Cette liste regroupe les grandes fonctionnalités prévues pour créer le Référendum d'Initiative Citoyenne - le RIC.
 Cette liste est modifiable et discutable à souhait sans aucune contrainte.
-Cette liste n'appartient à aucun Parti Politque.
+Cette liste n'appartient à aucun Parti Politique.
 Cette liste appartient aux Membres du Peuple Français.
 
 
@@ -15,14 +15,14 @@ En tant que Membre du Peuple Français,
         Consulter la Constitution française afin d'en prendre connaissance
         Consulter la liste des élus afin d'en prendre connaissance
         Proposer au peuple Français de Changer les fonctionnalités du RIC
-        Proposer au peuple Français une Propositon de Loi
+        Proposer au peuple Français une Proposition de Loi
         Proposer au peuple Français d'Abroger une Loi
-        Proposer au peuple Français de Changer la Consitution française
+        Proposer au peuple Français de Changer la Constitution française
         Proposer au peuple Français de révoquer un élu de son mandat
         Voter un changement des fonctionnalités du RIC
         Voter une proposition de Loi
         Voter une abrogation de Loi
-        Voter un changement de la Consitution française
+        Voter un changement de la Constitution française
         Voter une révocation d'un élu de son mandat
         Consulter l'état d'une proposition
         Consulter l'état d'un vote
@@ -33,7 +33,7 @@ En tant que Membre du Peuple Français,
         Déclarer une usurpation de mon identité
     je suis 
         Averti de mon inscription au RIC pour accéder à mes fonctionnalités.
-        Averti des risques d'usurptation d'identité.
+        Averti des risques d’usurpation d'identité.
     
 
 
@@ -49,7 +49,7 @@ En tant qu'élu,
         Déclarer une usurpation de mon identité
     je suis
         Averti de mon inscription au RIC pour accéder à mes fonctionnalités.
-        Averti des risques d'usurptation d'identité.
+        Averti des risques d'usurpation d'identité.
     
     
 
@@ -62,13 +62,13 @@ En tant qu'administrateur du RIC,
         M'authentifier afin d'accéder à mes services d'élu
         Déclarer un autre Administrateur du RIC afin de garantir son identité.
         Déclarer un Elu afin de garantir son identité.
-        Déclarer un Service de Répréssion des Fraudres pour les avertir en cas d'usurpation d'identité.
+        Déclarer un Service de Repression des Fraudes pour les avertir en cas d'usurpation d'identité.
         Etre déclaré comme Membre du Peuple Français par un élu.
         Déclarer une usurpation de mon identité
     je suis
-        Averti des risques d'usurptation d'identité.
+        Averti des risques d'usurpation d'identité.
 
-En tant que service de répression des fraudes,
+En tant que Service de Repression des Fraudes,
     je suis
         Averti lors qu'un Membre du Peuple Français, un élu ou un Administrateur du RIC déclare une usurpation d'identité.
 
