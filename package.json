@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "chai": "latest",
+    "mocha": "latest",
+    "nyc": "latest"
+  }
+}
